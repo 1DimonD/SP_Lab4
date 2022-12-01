@@ -1,0 +1,18 @@
+let x;
+x = 5;
+якийсь
+// x = 6; I will not be executed
+document.getElementById("demo")/*090900*/.innerHTML = x;
+
+const user: User = {
+    name: "Hayes",
+    id: 0,
+};
+
+if(x >= 4) {
+    console.log(x++);
+} else if(8*x <> 12) {
+    do {
+        console.log(12):
+    } while(x == user.id);
+}
